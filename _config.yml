@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Something from Nothing
 header-img: img/home-bg.png
 email: vicki.cello@gmail.com
 copyright_name: vickicello
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Building Code from the Ground Up
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  vickicello
