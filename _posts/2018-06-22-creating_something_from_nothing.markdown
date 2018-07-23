@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Creating Something from Nothing"
-date:       2018-06-22 16:21:35 +0000
+date:       2018-06-22 12:21:36 -0400
 permalink:  creating_something_from_nothing
 ---
 
@@ -13,3 +13,5 @@ Just as a band produces a song and collaborates to make it better and more polis
 Today I went to a coding meetup for the first time, a small gathering of nine.  I was struck by how passionate everyone talked about their projects, perspectives, and philosophy related to code.  Although I felt overwhelmed surrounded by people with much more expertise than myself, and a lot of the things they discussed were way over my head, I felt included and respected, and wasn't afraid to ask questions. 
 
 I'm unsure yet of what I'll end up building with code, but I'm excited to be joining of a network of passionate creators - it feels like home.
+
+testing this
