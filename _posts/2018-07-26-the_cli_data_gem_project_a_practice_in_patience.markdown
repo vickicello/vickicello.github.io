@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The CLI Data Gem Project: A Practice in Patience"
-date:       2018-07-26 18:57:16 +0000
+date:       2018-07-26 14:57:16 -0400
 permalink:  the_cli_data_gem_project_a_practice_in_patience
 ---
 
